@@ -1,5 +1,5 @@
 {
-  "buildCommand": "npm run build",
+  "buildCommand": "bun run build",
   "outputDirectory": "dist",
   "framework": "vite",
   "rewrites": [
@@ -10,7 +10,6 @@
   ],
   "env": {
     "VITE_API_URL": "@VITE_API_URL",
-    "VITE_STRIPE_PUBLISHABLE_KEY": "@VITE_STRIPE_PUBLISHABLE_KEY",
-    
+    "VITE_STRIPE_PUBLISHABLE_KEY": "@VITE_STRIPE_PUBLISHABLE_KEY"
   }
 }
