@@ -9,8 +9,8 @@
     }
   ],
   "env": {
-    "VITE_API_URL": "@vite_api_url",
-    "VITE_STRIPE_PUBLISHABLE_KEY": "@vite_stripe_publishable_key",
-    "VITE_GOOGLE_MAPS_API_KEY": "@vite_google_maps_api_key"
+    "VITE_API_URL": "@VITE_API_URL",
+    "VITE_STRIPE_PUBLISHABLE_KEY": "@VITE_STRIPE_PUBLISHABLE_KEY",
+    
   }
 }
