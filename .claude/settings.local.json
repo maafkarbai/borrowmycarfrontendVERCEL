@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bun add:*)",
+      "Bash(npm install:*)",
+      "Bash(bun install:*)",
+      "Bash(ls:*)"
+    ],
+    "deny": []
+  }
+}
